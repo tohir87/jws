@@ -1,8 +1,8 @@
 <?php include "header.php"; ?>
 
 <div class="banner-container">
-<a href="https://www.uniagents.com/subscription-plan.php">
-    <img src="https://www.uniagents.com/images/Uniagents_Christmas-offer.jpg" width="100%"></a>
+<a href="#">
+    <img src="banners/jws_yearend-offer.jpg" width="100%"></a>
 </div>
 <!-- Body goes here -->
 

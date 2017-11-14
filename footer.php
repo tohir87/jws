@@ -203,12 +203,7 @@
 
 
 
-
-
-<!-- HTML5 for ie only -->
-<!--[if lt ie 9]>
-<link rel="stylesheet" type="text/css" href="css/ie.css">
-<![endif]-->
+<script src="js/jws.js"></script>
 
 <!-- benefits hover -->
 <script>
@@ -297,9 +292,6 @@
         mobile();
     });
 </script>
-
-
-
 
 </body>
 </html>

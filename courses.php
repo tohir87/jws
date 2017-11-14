@@ -9,7 +9,7 @@
 
 <!--<div class="white-continer">-->
 <div class="wrapper" style="height: 500px">
-        <div class="main-heading"><i class="fa fa-institution"></i> Top Higher Education, IB Schools &amp; Polytechnic Institutions in Sweden and Ireland
+        <div class="main-heading"><i class="fa fa-institution"></i> Courses
         </div>
         <div class="body-left body-left1">
             <div class="listing-container clearfix">

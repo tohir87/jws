@@ -470,7 +470,6 @@
                     <ul id="menu">
                         <li><a href="#">Student Services</a></li>
                         <li><a href="#">Visa Information</a></li>
-                        <li><a href="#">For Consultants</a></li>
                         <li><a href="#">Register</a></li>
                         <li><a href="#">Events</a></li>
                         <li><a href="institutions.php">Institutions</a></li>
