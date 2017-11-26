@@ -5,7 +5,6 @@
             <ul>
                 <li>
                     <span class="heading">Study Abroad</span>
-                    <a href="http://www.immi.gov.au/students/" class="ripple" data-color="#ddd" target="_blank" >Australia</a>
                     <a href="http://www.ice.gov/sevis/index.htm" class="ripple" data-color="#ddd" target="_blank" >USA</a>
                     <a href="http://www.ukvisas.gov.uk/en/" class="ripple" data-color="#ddd" target="_blank" >United Kingdom</a>
                     <a href="http://www.inis.gov.ie/en/INIS/Pages/Study" class="ripple" data-color="#ddd" target="_blank" >Ireland</a>
