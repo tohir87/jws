@@ -23,10 +23,10 @@
                 <li>
                     <span class="heading">Higher Education Institutions</span>
                     
-                    <a href="#" class="ripple" data-color="#ddd" target="_blank" >Sweden</a>
-                    <a href="#" class="ripple" data-color="#ddd" target="_blank" >Ireland</a>
-                    <a href="#" class="ripple" data-color="#ddd" target="_blank" >Norway</a>
-                    <a href="#" class="ripple" data-color="#ddd" target="_blank" >United Kingdom</a>
+                    <a href="institutions.php" class="ripple" data-color="#ddd" target="_blank" >Sweden</a>
+                    <a href="institutions.php" class="ripple" data-color="#ddd" target="_blank" >Ireland</a>
+                    <a href="institutions.php" class="ripple" data-color="#ddd" target="_blank" >Norway</a>
+                    <a href="institutions.php" class="ripple" data-color="#ddd" target="_blank" >United Kingdom</a>
 </li>
                 <li><span class="heading">Contact Us</span>
 
