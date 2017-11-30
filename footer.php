@@ -15,9 +15,9 @@
                 <li>
                     <span class="heading">Services </span>
 
-                    <a href="#" class="ripple" data-color="#ddd" target="_blank" >UnderGraduate Studies</a>
-                    <a href="#" class="ripple" data-color="#ddd" target="_blank" >Post Graduate Studies</a>
-                    <a href="#" class="ripple" data-color="#ddd" target="_blank" >Nursing Skilled Workers Programme</a>
+                    <a href="services.php#underGraduate" class="ripple" data-color="#ddd" >UnderGraduate Studies</a>
+                    <a href="services.php#podtGraduate" class="ripple" data-color="#ddd" target="_blank" >Post Graduate Studies</a>
+                    <a href="services.php#skilledProgramme" class="ripple" data-color="#ddd" target="_blank" >Nursing Skilled Workers Programme</a>
 
                 </li>
                 <li>

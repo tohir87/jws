@@ -18,7 +18,7 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
-        <title>Study Abroad for International Students, Consultants and Institutions</title>
+        <title>Studying Abroad made Easy | JWS EduConsult</title>
 
         <meta name="description" content="">
 
@@ -262,136 +262,10 @@
 
 
     <body>
-        <div class="slicknav_menu"><a href="#" aria-haspopup="true" tabindex="0" class="slicknav_btn slicknav_collapsed" style="outline: medium none;"><span class="slicknav_menutxt">MENU</span><span class="slicknav_icon"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><ul class="slicknav_nav slicknav_hidden" style="display: none;" aria-hidden="true" role="menu">
-
-                <li class="slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: medium none;"><a href="javascript:void(0);" tabindex="-1">For Institutions</a>
-
-                        <span class="slicknav_arrow">►</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
-
-                        <li><a href="https://www.uniagents.com/institutions-services.php" role="menuitem" tabindex="-1">Services &amp; Benefits</a></li>
-
-                        <li><a href="https://www.uniagents.com/institutions-system-demo.php" role="menuitem" tabindex="-1">System Demo</a></li>
-
-                        <li><a href="https://www.uniagents.com/subscription-plan.php" role="menuitem" tabindex="-1">Subscription Plans</a></li>
-
-                        <li><a href="https://www.uniagents.com/en/country-wise-consultant/index.htm" role="menuitem" tabindex="-1">Browse Consultants</a></li>
-
-                        <!--<li><a href="/en/country-wise-student/index.htm">Browse Students</a></li>
-        
-                        <li><a href="/crisp.php">Promote Short term and Online Courses</a></li>-->
-
-                        <li><a href="https://www.uniagents.com/marketing-printing-and-logistics.php" role="menuitem" tabindex="-1">Marketing, Printing and Logistics</a></li>
-
-                        <li><a href="https://www.uniagents.com/institution/register-institution.php" role="menuitem" tabindex="-1">Register</a></li>
-
-                        <li><a href="https://www.uniagents.com/institution-offers-and-discounts.php" role="menuitem" tabindex="-1">Special Offers and Discounts</a></li>
-
-                    </ul>
-
-                </li>
-
-                <li class="slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: medium none;"><a href="javascript:void(0);" tabindex="-1">For Consultants</a>
-
-                        <span class="slicknav_arrow">►</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
-
-                        <li><a href="https://www.uniagents.com/educational-consultants-services.php" role="menuitem" tabindex="-1">Services &amp; Benefits</a></li>
-
-
-
-                        <li><a href="https://www.uniagents.com/agents-crm.php" role="menuitem" tabindex="-1">Agent CRM</a></li>
-                        <li><a href="https://www.uniagents.com/website-quotation.php" role="menuitem" tabindex="-1">Website for your Agency</a></li>
-
-                        <li><a href="https://www.uniagents.com/uniagents-certification.php" role="menuitem" tabindex="-1">UniAgents Certification</a></li>
-
-                        <li><a href="https://www.uniagents.com/marketing-and-branding.php" role="menuitem" tabindex="-1">Marketing  and Branding</a></li>
-
-                        <!--<li><a href="/en/country-wise-student/index.htm">Browse Students</a></li>-->
-
-                        <li><a href="https://www.uniagents.com/en/institutions/index.htm" role="menuitem" tabindex="-1">Browse Institutions</a></li>
-
-                        <li><a href="https://www.uniagents.com/register_agent.php?id=1c383cd30b7c298ab50293adfecb7b18" role="menuitem" tabindex="-1">Register</a></li>
-                        <li class="slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: medium none;"><a href="javascript:void(0);" tabindex="-1">Events</a>
-                                <span class="slicknav_arrow">►</span></a><ul role="menu" aria-hidden="true" class="slicknav_hidden" style="display: none;">
-                                <!--  -->
-                                <li><a href="https://www.uniagents.com/events/annual-agent-workshop-europe-2016.php" role="menuitem" tabindex="-1">Annual Agent Workshop - Europe 2016</a></li>
-                                <li><a href="https://www.uniagents.com/events/nepal-event.php" role="menuitem" tabindex="-1">Nepal Institution-Agent Conference – Nepal 2016</a></li>
-                                <li><a href="https://www.uniagents.com/events/africa-2016.php" role="menuitem" tabindex="-1">Africa Summit 2016</a></li>
-                            </ul>
-                        </li>
-
-                    </ul>
-
-                </li>
-
-                <li class="slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: medium none;"><a href="javascript:void(0);" tabindex="-1">For Students</a>
-
-                        <span class="slicknav_arrow">►</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
-
-                        <li><a href="https://www.uniagents.com/student-services.php" role="menuitem" tabindex="-1">Services &amp; Benefits</a></li>
-
-                        <li><a href="https://www.uniagents.com/crisp-students.php" role="menuitem" tabindex="-1">International Short Term Courses</a></li>
-
-                        <li><a href="https://www.uniagents.com/en/country-wise-consultant/index.htm" role="menuitem" tabindex="-1">Browse Consultants</a></li>
-
-                        <li><a href="https://www.uniagents.com/en/institutions/index.htm" role="menuitem" tabindex="-1">Browse Institutions</a></li>
-
-                        <li><a href="https://www.uniagents.com/en/visa-information/index.htm" role="menuitem" tabindex="-1">Visa Information</a></li>
-
-                        <li><a href="https://www.uniagents.com/student-registration.php" role="menuitem" tabindex="-1">Register</a></li>
-
-                    </ul>
-
-                </li>
-
-                <li><a href="http://uniagents.com/global-access/" target="_blank" role="menuitem" tabindex="-1">Global Access</a></li>
-
-                <!--<li><a href="javascript:void(0);">For Pearson Centers</a>
-                <ul>
-                <li><a href="/pearson.php">Introduction</a></li>
-                <li><a href="/pearson.php#register">How to Register</a></li>
-                <li><a href="/pearson.php#benefits">Benefits</a></li>
-                </ul>
-                </li>-->
-
-                <li>
-
-                    <a href="https://www.uniagents.com/government_login.php" role="menuitem" tabindex="-1">For Government</a>
-
-                </li>
-
-                <li class="slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: medium none;"><a href="https://www.uniagents.com/india-event/" tabindex="-1">Events</a>
-
-                        <span class="slicknav_arrow">►</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
-
-                        <!--<li><a href="/events.php">International Education Expo, Malaysia</a></li>
-                            <li><a href="/events/european-education-summit.php">Uniagents European Education Summit 2016</a></li>
-                        <li><a href="/workshop-for-consultants.php">Exclusive Workshop for HE Consultants</a></li>-->
-                        <li><a href="https://www.uniagents.com/india-event/india-event-2018.php" role="menuitem" tabindex="-1">UniAgents Annual Summit 2018 <span style="color:green;"> (Upcoming)</span></a></li>
-                        <li><a href="https://www.uniagents.com/hungary-event/" role="menuitem" tabindex="-1">UniAgents European Education Summit 2017</a></li>
-                        <li><a href="https://www.uniagents.com/nafsa2017/" role="menuitem" tabindex="-1">UniAgents Workshop during NAFSA 2017</a></li>
-                        <li><a href="https://www.uniagents.com/india-event/" role="menuitem" tabindex="-1">UniAgents Annual Summit 2017</a></li>
-                        <li><a href="https://www.uniagents.com/events/european-education-summit.php" role="menuitem" tabindex="-1">UniAgents European Education Summit 2016</a></li>
-                        <li><a href="https://www.uniagents.com/events/itp-education-fair.php" role="menuitem" tabindex="-1">New Zealand Institute of Technology (ITP) Education Fair</a></li>
-                        <!--<li><a href="/events/world-scholarship-event-uae-2016.php">World Scholarship Event UAE 2016</a></li>
-                        <li><a href="/events/delhi-education-fair.php">International Education Fair - India 2016</a></li>-->
-                        <li><a href="https://www.uniagents.com/events/nepal-event.php" role="menuitem" tabindex="-1">Nepal Institution-Agent Conference – Nepal 2016</a></li>
-                        <li><a href="https://www.uniagents.com/events/africa-2016.php" role="menuitem" tabindex="-1">Africa Summit 2016</a></li>
-                        <!--<li><a href="/fujairah-event.php">Fujairah Career and Education Fair</a></li>-->
-
-                    </ul>
-
-                </li>
-
-            </ul></div>
-
         <!-- header -->
-
         <header>
-
             <div class="top-header">
-
                 <div class="wrapper">
-
                     <!-- social -->
 
                     <div class="social">
@@ -411,15 +285,8 @@
 
                             <ul class="clearfix" style="">
                                 <li><a title="JWS Consult Home" href="index.php"> Home </a></li>
-
                                 <li><a title="About JWS Consult" href="about-us.php"> About us </a></li>
-
-                                <!-- <li><a title="Our Partners" href="/pearson.html"> Partners </a></li> -->
-
                                 <li><a title="Contact JWS Consult" href="contact-us.php"> Contact Us </a></li>
-
-                                </li>
-
                                 <li class="highlight"><a href="javascript:void(0);">Register</a>
 
                                     <ul>
@@ -468,7 +335,13 @@
             <div class="nav-container">
                 <nav>
                     <ul id="menu">
-                        <li><a href="#">Student Services</a></li>
+                        <li><a href="#">Student Services</a>
+                            <ul rolle="menuitem">
+                                <li><a href="services.php#underGraduate">UnderGraduate Studies</a></li>
+                                <li><a href="services.php#postGraduate">Post Graduate Studies</a></li>
+                                <li><a href="services.php#skilledProgramme">Skilled Workers Programme</a></li>
+                            </ul>
+                        </li>
                         <li><a href="#">Visa Information</a></li>
                         <li><a href="#">Register</a></li>
                         <li><a href="#">Events</a></li>
