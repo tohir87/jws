@@ -1,11 +1,19 @@
 <?php include "header.php"; ?>
 
 <div class="banner-container">
-<a href="#">
-    <img src="images/Uniagents_Christmas-offer.jpg" width="100%"></a>
+    <a href="#">
+        <img src="banners/jws_yearend-offer.jpg" width="100%">
+    </a>
 </div>
 <!-- Body goes here -->
 
+<div style="background-color: #08579a; background-image: url('images/testimonials-bg.jpg')">
+    <p style="padding: 20px 150px 20px 150px; text-align: justify; color: #ffffff">
+        Our mission is to connect students and professionals with the underlying opportunities in Sweden and Ireland. Our operations have been created by professionals with firsthand experience of Swedish and Irish education with marketing operations Nigeria.
+
+Whatever your education goals are, we are here to help. We are recognized as an Independent source for advice for parents, students and professionals.  
+    </p>
+</div>
 <p>&nbsp;</p>
 
 <div class="wrapper">

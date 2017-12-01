@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <link rel="manifest" href="https://www.uniagents.com/manifest.json">
-        <script type="text/javascript" async="" src="js/ga.js"></script><script src="js/OneSignalSDK.js" async=""></script>
+        <!--<link rel="manifest" href="https://www.uniagents.com/manifest.json">-->
+        <script type="text/javascript" async="" src="js/ga.js">
+        </script><script src="js/OneSignalSDK.js" async=""></script>
         <script>
             var OneSignal = window.OneSignal || [];
             OneSignal.push(["init", {
@@ -123,12 +124,6 @@
             });
 
         </script>
-
-        <!-- slider -->
-
-        <!--<link rel='stylesheet' id='camera-css'  href='https://www.uniagents.com/css/camera.css' type='text/css' media='all'>
-        
-         slider -->
 
 
 
@@ -271,8 +266,8 @@
                     <div class="social">
                         <a href="https://www.facebook.com/jws" target="_blank" title="Join Uniagents &gt; on Facebook "><i class="fa fa-facebook"></i></a> 
                         <a title="Join JWS Consult &gt; on Twitter " href="https://twitter.com/JwsConsult" target="_blank"><i class="fa fa-twitter"></i></a> 
-                        <a title="Join Uniagents &gt; on You Tube" href="https://www.youtube.com/channel/jwsConsult" target="_blank"><i class="fa fa-youtube"></i></a> 
-                        <a title="Join Uniagents &gt; on Linkdin" href="https://www.linkedin.com/company/jwsConsult" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <a title="Join JWS Consult &gt; on You Tube" href="https://www.youtube.com/channel/jwsConsult" target="_blank"><i class="fa fa-youtube"></i></a> 
+                        <a title="Join JWS Consult &gt; on Linkdin" href="https://www.linkedin.com/company/jwsConsult" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
 
                     <!-- social -->
@@ -324,7 +319,11 @@
 
             <!-- logo -->
 
-            <div class="logo"><a title="JWS Consult" href="index.php"><img src="images/uniagents.png"></a></div>
+            <div class="logo">
+                <a title="JWS Consult" href="index.php">
+                    <img src="img/jws-consult-logo.jpg">
+                </a>
+            </div>
 
             <!-- logo -->
 
