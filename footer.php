@@ -34,10 +34,10 @@
                     <div class="">
                         
                         <span style="color: #fff">For general enquiries and information please write to us:</span>
-                        <p><a href="mailto:jwsconsult@outlook.com">jwsconsult@outlook.com</a></p>
-                        <span style="color: #fff">Sweden : +46-70-279-3273<br>
+                        <p><a href="mailto:jwsconsult@outlook.com">info@jwsconsult.se</a></p>
+                        <span style="color: #fff">Sweden : +46-70-279-3173<br>
                         Ireland : +353-83-452-2705<br>
-                        Nigeria : +234-</span>
+                        </span>
                     </div>
                 </li>
 

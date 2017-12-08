@@ -1,4 +1,4 @@
-<form action="contact-us.php" method="post" onsubmit="return check_required();">
+<form action="mailto:otcleantech@gmail.com" method="post" onsubmit="return check_required();">
 
     <!-- contact left -->
     <div class="contact-left" style="width:auto;padding-bottom:0;">
@@ -13,8 +13,6 @@
                                 <option value="4">Others</option>
                             </select>
                         </span>
-                        <!--<div id="org_div1" style="display:none;">
-                        </div>-->
                     </td>
                 </tr><tr id="org_div1" style="display:none;">
                     <td><span class="fields">Name of Organisation</span></td>
@@ -55,7 +53,7 @@
                 <td>
                     <span id="country_new" class="fields">
                         <select id="country" name="country" required="">
-                            <option ng-repeat="country in counties">{{country_country_name}}</option>
+                            <option value="Nigeria">Nigeria</option>
                         </select>
                     </span>
                 </td>
