@@ -339,6 +339,7 @@
                                 <li><a href="services.php#underGraduate">UnderGraduate Studies</a></li>
                                 <li><a href="services.php#postGraduate">Post Graduate Studies</a></li>
                                 <li><a href="services.php#skilledProgramme">Skilled Workers Programme</a></li>
+                                <li><a href="services.php#testPrep">Test Preparation Classes</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Visa Information</a></li>
