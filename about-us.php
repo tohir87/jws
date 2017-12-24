@@ -37,6 +37,70 @@ Whatever your education goals are, we are here to help. We are recognized as an 
 
 
     </div>
+    
+    <div class="wrapper">
+
+		<div class="main-heading"><i class="fa fa-list"></i> Our Team</div>
+
+		<!-- listing -->
+
+                <ul class="recently-registed">
+                    <li>
+                        <a href="https://www.linkedin.com/in/paul-akinola-msc-bsc-hon-218b1a78/" target="_blank" class="std-img">
+                            <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a7/396/0354949.jpg">
+                        </a>
+                        <div class="heading">
+                            <a href="https://www.linkedin.com/in/paul-akinola-msc-bsc-hon-218b1a78/" target="_blank">
+                                Paul Akinola
+                            </a>
+                        </div>
+                        <div class="sub-head">
+                            Director
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/marie-louise-j%C3%B6nsson-43117876/" target="_blank" class="std-img">
+                            <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/2ca/17a/2197d64.jpg">	
+                        </a>
+                        <div class="heading"> 
+                            <a href="https://www.linkedin.com/in/marie-louise-j%C3%B6nsson-43117876/" target="_blank">
+                                Marie-Louise Jönsson
+                            </a>
+                        </div>
+                        <div class="sub-head">
+                            Company Adviser
+                        </div>
+                    </li>
+                    <li>
+                        <a href="#" class="std-img">
+                            <img src="img/noah.jpg">
+                        </a>
+                        <div class="heading"> 
+                            <a href="#">
+                                Noah Kolade
+                            </a>
+                        </div>
+                        <div class="sub-head">
+                            Deputy Director
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/tohiromoloye/" target="_blank" class="std-img">
+                            <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJxAAAAJDNhZjY1MzUwLWRjNmUtNDdiMy04OGIwLWI5YThjZGM4OTczYg.jpg">
+                        </a>
+                        <div class="heading">
+                            <a href="https://www.linkedin.com/in/tohiromoloye/" target="_blank">
+                                Tohir Omoloye
+                            </a>
+                        </div>
+                        <div class="sub-head">
+                            Programme Cordinator
+                        </div>
+                    </li>
+                </ul>
+		<!-- listing -->
+		<div class="spacer"></div>
+		</div>
 </main>
 
 
