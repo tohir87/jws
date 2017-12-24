@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <!--<link rel="manifest" href="https://www.uniagents.com/manifest.json">-->
-        <script type="text/javascript" async="" src="js/ga.js">
-        </script><script src="js/OneSignalSDK.js" async=""></script>
-        <script>
-            var OneSignal = window.OneSignal || [];
-            OneSignal.push(["init", {
-                    appId: "4e70e6df-4d33-4bed-ab42-fd19bf3c9064",
-                    autoRegister: true,
-                    notifyButton: {
-                        enable: false /* Set to false to hide */
-                    }
-                }]);
-        </script>
-
+        
         <meta charset="UTF-8">
 
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -343,8 +330,8 @@
                             </ul>
                         </li>
                         <li><a href="#">Visa Information</a></li>
-                        <li><a href="#">Register</a></li>
-                        <li><a href="#">Events</a></li>
+                        <!--<li><a href="#">Register</a></li>-->
+                        <!--<li><a href="#">Events</a></li>-->
                         <li><a href="institutions.php">Institutions</a></li>
                     </ul>
                 </nav>
