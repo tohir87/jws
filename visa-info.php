@@ -17,7 +17,7 @@
     <div class="body-wrapper">
         
         <div class="main-heading">Before You Arrive</div>
-        <div>Many non-EU students need to apply for a visa to the Embassy of Ireland or the Consulate in their home country. This can take several months, so it’s important to allow plenty of time for this when planning for your admission date. For complete details of visa requirements and processes, please visit the Irish Naturalisation & Immigration Service website: http://inis.gov.ie/</div>
+        <div>Many non-EU students need to apply for a visa to the Embassy of Ireland or the Consulate in their home country. This can take several months, so it’s important to allow plenty of time for this when planning for your admission date. For complete details of visa requirements and processes, please visit the Irish Naturalisation & Immigration Service website: <a href="http://inis.gov.ie/" target="_blank">http://inis.gov.ie/</a></div>
 
         <div>You will need to supply the following documentation when applying for a visa to your local Irish Embassy:
         <ol>
