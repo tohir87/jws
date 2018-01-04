@@ -329,7 +329,7 @@
                                 <li><a href="services.php#testPrep">Test Preparation Classes</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Visa Information</a></li>
+                        <li><a href="visa-info.php">Visa Information</a></li>
                         <!--<li><a href="#">Register</a></li>-->
                         <!--<li><a href="#">Events</a></li>-->
                         <li><a href="institutions.php">Institutions</a></li>
