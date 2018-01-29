@@ -2,13 +2,14 @@
 
 <div class="banner-container">
 <a href="#">
-    <img src="images/Uniagents_Christmas-offer.jpg" width="100%"></a>
+    <img src="banners/jws_yearend-offer.jpg" width="100%"></a>
 </div>
 <!-- Body goes here -->
 
 
 <!--<div class="white-continer">-->
-<div class="wrapper" style="height: 500px">
+<main>
+    <div class="wrapper" style="height: 700px">
         <div class="main-heading"><i class="fa fa-institution"></i> Top Higher Education, IB Schools &amp; Polytechnic Institutions in Sweden and Ireland
         </div>
         <div class="body-left body-left1">
@@ -56,6 +57,28 @@
 
                 </div>
             </div>
+            
+            <div class="listing-container clearfix">
+                <div class="left">
+                    <img src="http://marketing.cit.ie/contentfiles/images/Logos/CIT_large/CIT%20CREST%20(official)-RGB.jpg" width="100%"></div>
+                <div class="middle">
+                    <span class="heading">Cork Institute of Technology</span>
+                    <p>CIT offers full-time, part-time, and specialist courses in Art, Business and Humanities, Computing and Information Technology, Engineering, Media, Music, Nautical Studies, and Science.</p>
+
+                    <a href="#" target="_blank" class="view-profile"><i class="fa fa-eye"></i> View Profile</a>
+                </div>
+                <div class="right">
+                    <span class="location">
+                        Cork, Ireland			</span>
+                    <span class="location">University</span>
+                    <span class="location">Funding Type : Private
+                    </span>
+
+                    <a class="apply" href="register.php" target="_blank">Apply</a>
+                    <a class="contact" href="courses.php" target="_blank">Contact</a>
+
+                </div>
+            </div>
         </div>
         
         
@@ -65,6 +88,8 @@
         </div>
         
     </div>
+</main>
+
 
 
 
