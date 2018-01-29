@@ -71,7 +71,7 @@
                     <span class="location">
                         Cork, Ireland			</span>
                     <span class="location">University</span>
-                    <span class="location">Funding Type : Private
+                    <span class="location">Funding Type : Public
                     </span>
 
                     <a class="apply" href="register.php" target="_blank">Apply</a>
@@ -93,7 +93,7 @@
                     <span class="location">
                         Dublin, Ireland			</span>
                     <span class="location">University</span>
-                    <span class="location">Funding Type : Private
+                    <span class="location">Funding Type : Public
                     </span>
 
                     <a class="apply" href="register.php" target="_blank">Apply</a>
