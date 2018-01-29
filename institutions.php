@@ -9,7 +9,7 @@
 
 <!--<div class="white-continer">-->
 <main>
-    <div class="wrapper" style="height: 700px">
+    <div class="wrapper" style="height: 870px">
         <div class="main-heading"><i class="fa fa-institution"></i> Top Higher Education, IB Schools &amp; Polytechnic Institutions in Sweden and Ireland
         </div>
         <div class="body-left body-left1">
@@ -70,6 +70,28 @@
                 <div class="right">
                     <span class="location">
                         Cork, Ireland			</span>
+                    <span class="location">University</span>
+                    <span class="location">Funding Type : Private
+                    </span>
+
+                    <a class="apply" href="register.php" target="_blank">Apply</a>
+                    <a class="contact" href="courses.php" target="_blank">Contact</a>
+
+                </div>
+            </div>
+            
+            <div class="listing-container clearfix">
+                <div class="left">
+                    <img src="https://www.ncirl.ie/portals/0/Marketing/Logos/NCI%20Logo_web.jpg" width="100%"></div>
+                <div class="middle">
+                    <span class="heading">National College of Ireland</span>
+                    <p>National College of Ireland (NCI) is a third-level education college in Dublin. Founded in 1951, it offers full and part-time courses from certificate to degree and postgraduate level in areas related to computing, business, and psychology.</p>
+
+                    <a href="#" target="_blank" class="view-profile"><i class="fa fa-eye"></i> View Profile</a>
+                </div>
+                <div class="right">
+                    <span class="location">
+                        Dublin, Ireland			</span>
                     <span class="location">University</span>
                     <span class="location">Funding Type : Private
                     </span>
